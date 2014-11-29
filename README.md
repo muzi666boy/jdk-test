@@ -1,4 +1,5 @@
 jdk-test
 ========
-Test for jkd learning.
+Test for jdk learning.
 ========
+##Base on jdk7.
